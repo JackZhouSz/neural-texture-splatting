@@ -79,10 +79,10 @@ python scripts/run_dtu.py
 python scfipts/show_dtu.py
 ```
 
-# TODO
-- [ ] **3DGS-MCMC + NTS** for improved unbounded scene performance.
-- [ ] **SplatFields + NTS** for sparse-view and dynamic reconstruction.
-
+# Update
+- [x] **3DGS-MCMC + NTS**: `extensions/nts_mcmc`.
+- [x] **SplatFields + NTS**: `extensions/nts_splatfields`.
+ 
 
 ## Citation
 ```
